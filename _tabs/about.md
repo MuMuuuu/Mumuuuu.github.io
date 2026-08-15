@@ -16,6 +16,17 @@ Topics I am interested in:
 - Latest attack techniques
 - Random hardware toys (I have BashBunny and FlipperZero)
 
+### Certifications
+  - HTB CAPE (approximately 200th)
+  - OSCP+
+  - OSWP
+  - OSTH
+  - OSCC
+
+Pending: 
+  - OSEP
+  - CJCA (LOL)
+
 ## What is this blog used for ?
 This blog is a place for me to post some shit stuff.  
 Most posts are about Red Team techniques, but sometimes sharing random technologies I learned recently.  
